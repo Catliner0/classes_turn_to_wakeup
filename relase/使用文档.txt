@@ -1,0 +1,5 @@
+使用文档//
+1.从长春工业大学教务系统下载课表.xls文件
+2.使用MSoffice工具将.xls 转换成UTF-8 CSV文件，保存为“download.csv"
+3.将“download.csv"与exe文件放在同一目录，运行exe
+4.将生成的"classes.csv"在QQ里用”wakeup课程表“打开，导入wakeup课程表
