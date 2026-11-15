@@ -1,4 +1,5 @@
-# classes_turn_to_weakeup
+# classes_turn_to_weakeup  
+[![wakeup课程表](https://img.shields.io/badge/wakeup课程表-v1.0-pink)](https://www.wakeup.fun/)  
 一个基于C语言构筑的代码，将从CCUT（长春工业大学）下载的课表转化为可供wakeup课程表app导入的CSV文件  
 `本项目已停止维护更新`  
 ## 下载指南    
