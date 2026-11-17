@@ -9,3 +9,7 @@
 >2.使用MSoffice工具将.xls 转换成UTF-8 CSV文件，保存为`download.csv`  
 >3.将`download.csv`与`main.exe`文件放在同一目录，运行`main.exe`  
 >4.将生成的`classes.csv`在QQ里用`wakeup课程表打开`，导入wakeup课程表  
+
+## 版本说明  
+`main2.exe`会将相同课程的周数合并    
+这只是小完善，`main.exe`打印的课表也可以导入   
